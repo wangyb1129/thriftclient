@@ -1,6 +1,6 @@
 {
     "name": "thrift/client",
-    "description": "thtift client",
+    "description": "Thrift client library",
     "type": "library",
     "require": {
         "php": "^7.2.5 || ^8.0",
@@ -13,8 +13,8 @@
     },
     "authors": [
         {
-            "name": "yudian"
+            "name": "yudian",
+            "email": "yudian@email.com"
         }
-    ],
-	"version":"v1.0.0"
+    ]
 }
